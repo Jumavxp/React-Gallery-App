@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  margin: auto;
+  padding: 0px;
+}
+.contianer {
+  margin-top: 10px;
+  padding: 10px;
+}
+.card {
+  width: 24rem;
+  margin: 15px;
+  padding: 0%;
+  border: none;
+}
+.card-img-top {
+  border: 1px lightblue solid;
+  box-shadow: 2px 3px rgb(106, 106, 173);
+}
+.btn{
+  color: white;
+  background-color: grey;
+  border-radius: 45px 45px;
+}
+.row {
+  padding: 20px;
+  margin: auto;
+}
+.navbar-brand{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
